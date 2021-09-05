@@ -1,0 +1,19 @@
+.mt-10{
+    margin-top: 20px !important;
+}
+
+.main{
+    height: 100vh;
+    background-image: linear-gradient( rgb(192, 225, 255), rgb(19, 0, 128));
+}
+
+.main-content{
+    margin: 0 auto;
+    width: 75%;
+    background-color: aliceblue;
+    height: 100vh;
+}
+
+.main-content .row {
+    margin: auto 5% !important;
+}
